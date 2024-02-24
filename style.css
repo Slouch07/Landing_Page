@@ -77,6 +77,8 @@ a {
 
 p {
   margin: 0px;
+  width: 145px;
+  text-align: center;
 }
 
 button {
@@ -97,8 +99,12 @@ button {
 }
 
 .info-image {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   border: 2px solid #3882F6;
   border-radius: 10px;
+}
+
+.info-content-parent {
+  display: flex;
 }
