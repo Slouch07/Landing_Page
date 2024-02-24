@@ -75,7 +75,7 @@ a {
   color: #E5E7EB
 }
 
-p {
+.info-content-child p {
   margin: 0px;
   width: 145px;
   text-align: center;
@@ -107,4 +107,6 @@ button {
 
 .info-content-parent {
   display: flex;
+  justify-content: center;
+  gap: 50px;
 }
