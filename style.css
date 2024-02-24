@@ -94,3 +94,10 @@ button {
   font-weight: 800;
   color: #1f2937;
 }
+
+.info-image {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #3882F6;
+  border-radius: 10px;
+}
