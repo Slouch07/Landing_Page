@@ -121,6 +121,7 @@ button {
   display: flex;
   align-content: center;
   flex-direction: column;
+  margin-bottom: 75px;
 }
 
 .quote-container {
