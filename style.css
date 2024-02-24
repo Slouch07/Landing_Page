@@ -122,3 +122,7 @@ button {
   align-content: center;
   flex-direction: column;
 }
+
+.quote-container {
+  background-color: #E5E7EB;
+}
