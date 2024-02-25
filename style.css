@@ -92,7 +92,7 @@ p {
   align-items: center;
 }
 
-button {
+.top-container button {
   width: 115px;
   padding: 4px;
   margin-top: 8px;
