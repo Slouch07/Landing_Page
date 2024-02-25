@@ -132,15 +132,24 @@ button {
 
 .quote-container {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   background-color: #E5E7EB;
+  padding: 75px 0px;
 }
 
-.quote {
+.quote-text {
   max-width: 750px;
   font-size: 36px;
   font-weight:300;
   font-style: italic;
   color: #1f2937;
-  margin: 75px 125px;
+}
+
+.quote-author {
+  width: 750px;
+  text-align: right;
+  padding-right: 30px;
+  font-weight: 800;
+  color: #1f2937;
 }
