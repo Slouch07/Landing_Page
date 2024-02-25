@@ -153,3 +153,12 @@ p {
   font-weight: 800;
   color: #1f2937;
 }
+
+.action-container {
+  display: flex;
+  margin: 75px 0px;
+}
+
+.action-content-container {
+  
+}
