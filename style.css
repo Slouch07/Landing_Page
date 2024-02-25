@@ -187,3 +187,10 @@ p {
   border-radius: 5px;
   color: #E5E7EB;
 }
+
+footer {
+  text-align: center;
+  background-color: #1f2937;
+  color: #E5E7EB;
+  padding: 20px 0px;
+}
