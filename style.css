@@ -156,9 +156,14 @@ p {
 
 .action-container {
   display: flex;
-  margin: 75px 0px;
+  margin: 75px auto;
 }
 
 .action-content-container {
-  
+  width: 950px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #3882F6;
+  padding: 30px 0px;
+  border-radius: 5px;
 }
